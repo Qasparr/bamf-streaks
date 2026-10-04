@@ -1,0 +1,13 @@
+AUDIO GOES HERE — not committed to this repo.
+
+The BAMF announcer clips are game audio from your own copy of the
+BAMF announcer pack (Heroes of Newerth). They are not redistributed here.
+
+To build a working APK, place the converted MP3s in this directory:
+
+  first_blood.mp3   double_kill.mp3   triple_kill.mp3
+  quad_kill.mp3     5_kills.mp3       smackdown.mp3
+  immortal.mp3      massacre.mp3      genocide.mp3
+  annihilation.mp3  6_kills.mp3      7_kills.mp3
+
+(Delete this file once the MP3s are in place.)
